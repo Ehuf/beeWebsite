@@ -1,7 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c14cb5ff-8518-4bc1-8b38-e303476ae269" name="Default" comment="" />
+    <list default="true" id="c14cb5ff-8518-4bc1-8b38-e303476ae269" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/img/halftone-yellow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/header.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/portfolio/fullsize/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/portfolio/fullsize/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/portfolio/fullsize/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/portfolio/fullsize/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/portfolio/fullsize/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/portfolio/fullsize/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/portfolio/fullsize/KidsTime-thumbnail.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/portfolio/thumbnails/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/portfolio/thumbnails/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/portfolio/thumbnails/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/portfolio/thumbnails/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/portfolio/thumbnails/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/portfolio/thumbnails/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/timeline/BEE.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/magnific-popup/jquery.magnific-popup.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/magnific-popup/jquery.magnific-popup.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/magnific-popup/magnific-popup.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/scrollreveal/scrollreveal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/scrollreveal/scrollreveal.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/startbootstrap-agency-gh-pages.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/startbootstrap-agency-gh-pages.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/agency.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/agency.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/about/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/about/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/about/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/about/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/header-bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/header-bg.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/logos/creative-market.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/logos/designmodo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/logos/envato.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/logos/themeforest.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/01-full.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/01-thumbnail.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/02-full.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/02-thumbnail.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/03-full.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/03-thumbnail.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/04-full.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/04-thumbnail.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/05-full.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/05-thumbnail.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/06-full.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/06-thumbnail.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/team/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/team/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/team/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/agency.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/agency.js" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,18 +65,58 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="50" column="17" lean-forward="true" selection-start-line="50" selection-start-column="17" selection-end-line="50" selection-end-column="17" />
-              <folding />
+            <state relative-caret-position="253">
+              <caret line="523" column="10" lean-forward="true" selection-start-line="523" selection-start-column="10" selection-end-line="523" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gallery-grid.css" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_freebie-4-bootstrap-gallery-templates.zip/grid/gallery-grid.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="791">
+              <caret line="64" column="1" lean-forward="true" selection-start-line="7" selection-end-line="64" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="magnific-popup.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vendor/magnific-popup/magnific-popup.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="agency.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/agency.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="298">
+              <caret line="701" column="1" selection-start-line="701" selection-start-column="1" selection-end-line="701" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>background-image</find>
+      <find>masthead</find>
+      <find>header</find>
+      <find>nav-link</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/js/creative.js" />
+        <option value="$PROJECT_DIR$/js/agency.js" />
+        <option value="$PROJECT_DIR$/css/agency.css" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
@@ -41,25 +132,25 @@
     </gulpfiles>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="240" />
-    <option name="y" value="130" />
-    <option name="width" value="1440" />
-    <option name="height" value="780" />
+    <option name="x" value="318" />
+    <option name="y" value="-23" />
+    <option name="width" value="1398" />
+    <option name="height" value="1048" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-      <manualOrder />
+    <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
@@ -67,20 +158,65 @@
         <subPane>
           <expand>
             <path>
-              <item name="startbootstrap-agency-gh-pages" type="b2602c69:ProjectViewProjectNode" />
-              <item name="startbootstrap-agency-gh-pages" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="beeWebsite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="beeWebsite" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="beeWebsite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="beeWebsite" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="css" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="beeWebsite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="beeWebsite" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="images" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="beeWebsite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="beeWebsite" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="js" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="beeWebsite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="beeWebsite" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="vendor" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="beeWebsite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="beeWebsite" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="vendor" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="magnific-popup" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="beeWebsite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="beeWebsite" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="vendor" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="scrollreveal" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../unitegallery-master" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Users\Shaw\Desktop\beeWebsite" />
+      <recent name="E:\Users\Shaw\Desktop\beeWebsite\img" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Users\Shaw\Desktop\beeWebsite\img\portfolio\fullsize" />
+      <recent name="E:\Users\Shaw\Desktop\beeWebsite\img\timeline" />
+      <recent name="E:\Users\Shaw\Desktop\beeWebsite\img" />
+      <recent name="E:\Users\Shaw\Desktop\beeWebsite\js" />
+      <recent name="E:\Users\Shaw\Desktop\beeWebsite\" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -94,9 +230,6 @@
       </list>
     </option>
   </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
-  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -109,35 +242,40 @@
       <updated>1513179080757</updated>
       <workItem from="1513179088331" duration="4540000" />
       <workItem from="1522265457475" duration="283000" />
+      <workItem from="1524589942612" duration="5037000" />
+      <workItem from="1524689323631" duration="464000" />
+      <workItem from="1524926598258" duration="3565000" />
+      <workItem from="1524931464053" duration="846000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4823000" />
+    <option name="totallyTimeSpent" value="14735000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25266525" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.32943678" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32943678" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32943678" />
+      <window_info id="Gulp" order="2" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25208333" />
+      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.33226153" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -146,24 +284,137 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager />
-    <watches-manager />
-  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="4794">
+          <caret line="282" column="43" selection-start-line="282" selection-start-column="43" selection-end-line="282" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_freebie-4-bootstrap-gallery-templates.zip/fluid/fluid-gallery.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1445">
+          <caret line="85" column="1" lean-forward="true" selection-start-line="7" selection-end-line="85" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/magnific-popup/magnific-popup.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/agency.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1904">
+          <caret line="112" column="40" selection-start-line="112" selection-start-column="40" selection-end-line="112" selection-end-column="40" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
+        <state relative-caret-position="4369">
+          <caret line="257" column="64" selection-start-line="257" selection-start-column="64" selection-end-line="257" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/agency.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="833">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/magnific-popup/magnific-popup.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/agency.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11084">
+          <caret line="652" column="24" selection-start-line="652" selection-start-column="24" selection-end-line="652" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4369">
+          <caret line="257" column="64" selection-start-line="257" selection-start-column="64" selection-end-line="257" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/agency.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="833">
+          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/magnific-popup/magnific-popup.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="21" lean-forward="true" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/agency.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11084">
+          <caret line="652" column="24" selection-start-line="652" selection-start-column="24" selection-end-line="652" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="850">
           <caret line="50" column="17" lean-forward="true" selection-start-line="50" selection-start-column="17" selection-end-line="50" selection-end-column="17" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/agency.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/magnific-popup/magnific-popup.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_freebie-4-bootstrap-gallery-templates.zip/fluid/fluid-gallery.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="791">
+          <caret line="85" column="1" selection-start-line="7" selection-end-line="85" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_freebie-4-bootstrap-gallery-templates.zip/grid/gallery-grid.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="791">
+          <caret line="64" column="1" lean-forward="true" selection-start-line="7" selection-end-line="64" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/agency.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="701" column="1" selection-start-line="701" selection-start-column="1" selection-end-line="701" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="523" column="10" lean-forward="true" selection-start-line="523" selection-start-column="10" selection-end-line="523" selection-end-column="10" />
         </state>
       </provider>
     </entry>
