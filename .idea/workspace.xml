@@ -2,21 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c14cb5ff-8518-4bc1-8b38-e303476ae269" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/fullsize/1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/fullsize/2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/fullsize/3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/fullsize/4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/fullsize/5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/fullsize/6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/fullsize/KidsTime-thumbnail.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/fullsize/hellmans-thumbnail.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/thumbnails/1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/thumbnails/2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/thumbnails/3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/thumbnails/4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/thumbnails/5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/thumbnails/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/hellmans/thumb_IMG_5772_1024.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/hellmans/thumb_IMG_5775_1024.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/hellmans/thumb_IMG_5776_1024.psd" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,8 +19,11 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="587">
-              <caret line="487" column="103" selection-start-line="487" selection-start-column="103" selection-end-line="487" selection-end-column="103" />
+            <state relative-caret-position="425">
+              <caret line="282" lean-forward="true" selection-start-line="282" selection-end-line="282" />
+              <folding>
+                <element signature="e#14574#14580#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -275,12 +266,12 @@
       <workItem from="1524689323631" duration="464000" />
       <workItem from="1524926598258" duration="3565000" />
       <workItem from="1524931464053" duration="846000" />
-      <workItem from="1524947025244" duration="7402000" />
+      <workItem from="1524947025244" duration="11240000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22137000" />
+    <option name="totallyTimeSpent" value="25975000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -319,6 +310,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="8891">
           <caret line="523" column="10" lean-forward="true" selection-start-line="523" selection-start-column="10" selection-end-line="523" selection-end-column="10" />
+          <folding>
+            <element signature="e#14574#14580#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -553,8 +547,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="587">
-          <caret line="487" column="103" selection-start-line="487" selection-start-column="103" selection-end-line="487" selection-end-column="103" />
+        <state relative-caret-position="425">
+          <caret line="282" lean-forward="true" selection-start-line="282" selection-end-line="282" />
+          <folding>
+            <element signature="e#14574#14580#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
