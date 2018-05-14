@@ -2,7 +2,56 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c14cb5ff-8518-4bc1-8b38-e303476ae269" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/img/art/alien copy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/art/alien.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/art/cantsleep4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/art/cantsleepprint.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/art/galaxy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/art/gally.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/art/happy2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/art/mothernoborder.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/art/phonebackground-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/art/prettier.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/art/printgrowing2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/photography/IMG_5281 copy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/photography/IMG_5300 copy2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/photography/IMG_5327.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/photography/IMG_5342.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/photography/IMG_5351.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/photography/IMG_5352 copy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/photography/IMG_5355.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/photography/IMG_5391.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/photography/IMG_5419.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/photography/IMG_5458 copy copy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/photography/IMG_5484.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/photography/IMG_5523 copy.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/agency.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/agency.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/art/BEE.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/art/FKAtwigs.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/art/Untitlcantsleeped-1 copy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/art/Untitled-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/art/aliengirl copy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/art/flappergirl-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/art/flowergirl.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/art/knuckles-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/art/mothernature2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/art/prettiercrazy2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/art/stillgrowing.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/art/xcvkl.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/art/zombiepurple.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/photography/again_again.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/photography/again_again_thumb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/photography/flower_mural.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/photography/flower_mural_thumb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/photography/lights.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/photography/lights_thumb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/photography/pink_canvas.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/photography/pink_canvas_thumb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/photography/pink_circles.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/photography/pink_circles_thumb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/photography/pink_gates.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/photography/pink_gates_thumb.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,47 +63,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="366" lean-forward="true" selection-start-line="366" selection-end-line="366" />
-              <folding>
-                <element signature="e#14578#14584#1" expanded="true" />
-                <element signature="e#17420#17426#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="578">
+              <caret line="259" column="59" selection-start-line="259" selection-start-column="59" selection-end-line="259" selection-end-column="59" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FKAtwigs.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/img/art/FKAtwigs.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file leaf-file-name="flappergirl-1.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/img/art/flappergirl-1.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file leaf-file-name="Untitlcantsleeped-1 copy.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/img/art/Untitlcantsleeped-1 copy.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file leaf-file-name="xcvkl.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/img/art/xcvkl.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file leaf-file-name="zombiepurple.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/img/art/zombiepurple.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file leaf-file-name="knuckles-1.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/img/art/knuckles-1.png">
-          <provider selected="true" editor-type-id="images" />
+      <file leaf-file-name="agency.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/css/agency.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="602">
+              <caret line="514" column="24" selection-start-line="514" selection-start-column="24" selection-end-line="514" selection-end-column="24" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file leaf-file-name="CNAME" pinned="false" current-in-tab="false">
@@ -84,9 +108,9 @@
       <list>
         <option value="$PROJECT_DIR$/js/creative.js" />
         <option value="$PROJECT_DIR$/js/agency.js" />
-        <option value="$PROJECT_DIR$/css/agency.css" />
         <option value="$PROJECT_DIR$/CNAME" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/agency.css" />
       </list>
     </option>
   </component>
@@ -112,11 +136,11 @@
   <component name="PhpServers">
     <servers />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="649" />
+    <option name="y" value="121" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -151,6 +175,12 @@
               <item name="beeWebsite" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="img" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="art" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="beeWebsite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="beeWebsite" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="img" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="photography" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="beeWebsite" type="b2602c69:ProjectViewProjectNode" />
@@ -214,23 +244,23 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../unitegallery-master" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../project-test" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Users\Shaw\Desktop\beeWebsite\img\photography" />
+      <recent name="E:\Users\Shaw\Desktop\beeWebsite\img\art" />
+      <recent name="E:\Users\Shaw\Desktop\beeWebsite\scss" />
+      <recent name="E:\Users\Shaw\Desktop\beeWebsite\js" />
+      <recent name="E:\Users\Shaw\Desktop\beeWebsite\vendor\jquery" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\Users\Shaw\Desktop\beeWebsite\img\portfolio\fullsize" />
       <recent name="E:\Users\Shaw\Desktop\beeWebsite\img\timeline" />
       <recent name="E:\Users\Shaw\Desktop\beeWebsite\img" />
       <recent name="E:\Users\Shaw\Desktop\beeWebsite\js" />
       <recent name="E:\Users\Shaw\Desktop\beeWebsite\" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\Users\Shaw\Desktop\beeWebsite\scss" />
-      <recent name="E:\Users\Shaw\Desktop\beeWebsite\js" />
-      <recent name="E:\Users\Shaw\Desktop\beeWebsite\vendor\jquery" />
-      <recent name="E:\Users\Shaw\Desktop\beeWebsite" />
-      <recent name="E:\Users\Shaw\Desktop\beeWebsite\img" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -262,25 +292,30 @@
       <workItem from="1524926598258" duration="3565000" />
       <workItem from="1524931464053" duration="846000" />
       <workItem from="1524947025244" duration="11339000" />
-      <workItem from="1525006874954" duration="3798000" />
+      <workItem from="1525006874954" duration="4515000" />
+      <workItem from="1525089776780" duration="34000" />
+      <workItem from="1525782587197" duration="649000" />
+      <workItem from="1525875263978" duration="3798000" />
+      <workItem from="1526139380714" duration="239000" />
+      <workItem from="1526295618716" duration="1365000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29872000" />
+    <option name="totallyTimeSpent" value="36674000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" visible="true" weight="0.32943678" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.503125" side_tool="true" visible="true" weight="0.24442083" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32943678" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.24760893" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.496875" visible="true" weight="0.24442083" />
       <window_info id="Gulp" order="2" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25208333" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12552084" />
       <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -288,11 +323,11 @@
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.33226153" />
+      <window_info anchor="bottom" id="Message" order="0" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -304,12 +339,85 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5899">
+          <caret line="347" column="45" lean-forward="true" selection-start-line="347" selection-start-column="45" selection-end-line="347" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/agency.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1598">
+          <caret line="94" column="17" selection-start-line="94" selection-start-column="17" selection-end-line="94" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CNAME">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="20" selection-start-column="20" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8126">
+          <caret line="478" column="42" lean-forward="true" selection-start-line="478" selection-start-column="42" selection-end-line="478" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CNAME">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="20" selection-start-column="20" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6103">
+          <caret line="359" column="40" lean-forward="true" selection-start-line="359" selection-start-column="40" selection-end-line="359" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CNAME">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="20" selection-start-column="20" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6222">
+          <caret line="366" selection-start-line="366" selection-end-line="366" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CNAME">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="20" selection-start-column="20" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6222">
+          <caret line="366" lean-forward="true" selection-start-line="366" selection-end-line="366" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CNAME">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="20" selection-start-column="20" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4692">
           <caret line="276" column="36" lean-forward="true" selection-start-line="276" selection-start-column="36" selection-end-line="276" selection-end-column="36" />
-          <folding>
-            <element signature="e#14578#14584#1" expanded="true" />
-            <element signature="e#17420#17426#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -324,10 +432,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="8891">
           <caret line="523" column="10" lean-forward="true" selection-start-line="523" selection-start-column="10" selection-end-line="523" selection-end-column="10" />
-          <folding>
-            <element signature="e#14578#14584#1" expanded="true" />
-            <element signature="e#17420#17426#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -440,13 +544,6 @@
     </entry>
     <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_freebie-4-bootstrap-gallery-templates.zip/fluid/fluid-gallery.css" />
     <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_freebie-4-bootstrap-gallery-templates.zip/grid/gallery-grid.css" />
-    <entry file="file://$PROJECT_DIR$/css/agency.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1946">
-          <caret line="511" column="4" selection-start-line="511" selection-start-column="4" selection-end-line="511" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/vendor/magnific-popup/magnific-popup.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
@@ -461,35 +558,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/art/knuckles-1.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/art/FKAtwigs.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/art/flappergirl-1.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/art/xcvkl.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/art/zombiepurple.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/art/Untitled-1.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/art/Untitlcantsleeped-1 copy.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="366" lean-forward="true" selection-start-line="366" selection-end-line="366" />
-          <folding>
-            <element signature="e#14578#14584#1" expanded="true" />
-            <element signature="e#17420#17426#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="578">
+          <caret line="259" column="59" selection-start-line="259" selection-start-column="59" selection-end-line="259" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/agency.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="602">
+          <caret line="514" column="24" selection-start-line="514" selection-start-column="24" selection-end-line="514" selection-end-column="24" />
         </state>
       </provider>
     </entry>
