@@ -130,6 +130,10 @@ body {
         font-size: 1.25em;
         padding: 12px 0; } }
 
+.padder {
+  height: 200px;
+}
+
 header.masthead {
   text-align: center;
   color: white;
