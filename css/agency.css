@@ -133,10 +133,10 @@ body {
 header.masthead {
   text-align: center;
   color: white;
-  background-image: url("../img/header-bg.jpg");
+  background-image: url("../img/brand2.5.jpg");
   background-repeat: no-repeat;
   background-attachment: scroll;
-  background-position: center center;
+  background-position: center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
